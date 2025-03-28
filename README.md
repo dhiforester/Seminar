@@ -1,29 +1,19 @@
-# README #
+# Manajemen Event Seminar V 1.0.0
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Deskripsi
+Event Seminar Management adalah aplikasi berbasis web yang dirancang untuk memudahkan pengelolaan seminar, workshop, atau konferensi. Aplikasi ini membantu dalam manajemen peserta, pendaftaran, pembuatan sertifikat, serta penjadwalan seminar. Selain itu, tersedia API service untuk integrasi dengan website atau landing page.
 
-### What is this repository for? ###
+## Fitur Utama
+- Manajemen Peserta: Tambah, edit, dan hapus data peserta seminar.
+- Pendaftaran Online: Formulir registrasi peserta yang mudah digunakan.
+- Generate Sertifikat: Otomatis membuat sertifikat peserta dengan template yang dapat disesuaikan.
+- Penjadwalan Seminar: Menentukan jadwal acara dan pembicara.
+- API Service: Endpoint untuk integrasi dengan website atau landing page eksternal.
+- User Management: Sistem login dan manajemen hak akses pengguna.
+- UI Responsif: Menggunakan Bootstrap untuk tampilan yang modern dan mobile-friendly.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## Teknologi yang Digunakan
+- Backend: PHP 7.4
+- Database: MySQL
+- Frontend: jQuery, Bootstrap
+- API Service: REST API untuk komunikasi dengan website/landing page
