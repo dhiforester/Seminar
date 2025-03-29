@@ -1361,7 +1361,7 @@ CREATE TABLE IF NOT EXISTS `setting_payment` (
 --
 
 INSERT INTO `setting_payment` (`id_setting_payment`, `api_payment_url`, `id_marchant`, `client_key`, `server_key`, `snap_url`, `production`, `aktif_payment_gateway`) VALUES
-(1, 'https://payment.rsuelsyifa.co.id', 'G353849916', 'SB-Mid-client-JSrxj1orrwPiAVdo', 'SB-Mid-server-RWIfjoriobGtv0veoWqF_YWK', 'https://app.sandbox.midtrans.com/snap/snap.js', 'false', 'Ya');
+(1, 'https://payment.rsuelsyifa.co.id', '', '', '', 'https://app.sandbox.midtrans.com/snap/snap.js', 'false', 'Ya');
 
 -- --------------------------------------------------------
 
